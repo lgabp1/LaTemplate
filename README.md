@@ -15,7 +15,8 @@ Preview:
 
 ### Letter
 
-Under construction...
+Preview:
+
 
 ### Slides
 
@@ -23,3 +24,5 @@ Under construction...
 
 ## Licenses
 All templates are licensed under the [MIT License](LICENSE).
+
+Assets from flaticon or are in the public domain.
