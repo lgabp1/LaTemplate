@@ -31,7 +31,7 @@
         align: (left, left, left, left, left),
         stroke: none,
         [#image("assets/mail.svg", height: 1em)],
-        [some\@mail.com],
+        [#link("mailto:some@mail.com")[some\@mail.com]],
         [|],
         [#image("assets/phone.svg", height: 1em)],
         [+12 3456 7890],
