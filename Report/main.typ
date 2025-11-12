@@ -19,7 +19,7 @@
 
 // ==== Body ====
 
-#latemplate(
+#show: latemplate.with(
   title: [_LaTemplate_: Report template],
   title_size: 21pt,
   authors_flat: (
@@ -35,7 +35,7 @@
   page_numbering: "1/1",
   heading_numbering: "I.A.1",
   column_count: 2,
-)[
+)
 
 #place_at(top)[
   #hidden_heading[Abstract]
@@ -126,6 +126,5 @@ float Q_rsqrt( float number )
 ]
 
 
-]
 
 
