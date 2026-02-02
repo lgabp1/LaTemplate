@@ -1,3 +1,6 @@
 [submodule "Resume"]
 	path = Resume
 	url = https://github.com/lgabp1/alta-typst.git
+[submodule "Slides/touying"]
+	path = Slides/touying
+	url = https://github.com/touying-typ/touying.git
