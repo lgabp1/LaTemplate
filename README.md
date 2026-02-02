@@ -6,7 +6,7 @@ My Typst templates.
 
 - [`Report/`](./Report/): For reports or papers ([overview](#report)).
 - [`Letter/`](./Letter/): For cover letters or similar ([overview](#letter)).
-- [`Slides/`](./Slides/): For presentation slides ([overview](#slides)).
+- [`Slides/`](./Slides/): For presentation slides ([overview](#slides)), custom [touying](https://github.com/touying-typ/touying) theme with some inspiration from [diatypst](https://github.com/skriptum/diatypst).
 - [`Resume/`](./Resume/): Fork of [GeorgeHoneywood/alta-typst](https://github.com/GeorgeHoneywood/alta-typst).
 
 ### Report
@@ -29,8 +29,12 @@ Preview:
 
 ### Slides
 
-Under construction...
+Preview: 
 
+**About**
+[touying](https://github.com/touying-typ/touying) custom theme (based on _metropolis_), with page counting dots inspired by [diatypst](https://github.com/skriptum/diatypst), with much AI slop to glue things together.
+
+There are some issues (`<touying:hidden>` or `#show: appendix` won't automatically defined the shown slides in the footer) but it is good enough for my needs.
 
 ## Licenses
 All templates are licensed under the [MIT License](LICENSE).
