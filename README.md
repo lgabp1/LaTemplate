@@ -30,6 +30,7 @@ Preview:
 ### Slides
 
 Preview: 
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/4608e2b5-cb7f-40d6-8cc2-535ef222dc8b" />
 
 **About**
 [touying](https://github.com/touying-typ/touying) custom theme (based on _metropolis_), with page counting dots inspired by [diatypst](https://github.com/skriptum/diatypst), with much AI slop to glue things together.
